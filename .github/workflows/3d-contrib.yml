@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --global user.name "github-actions" # Set user for commits
           git config --global user.email "github-actions@github.com" # Set email for commits
-          git remote set-url origin https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git # Reference the new token
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git # Reference the new token
 
       # Commit & Push
       - name: Commit & Push
