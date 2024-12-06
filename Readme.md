@@ -31,18 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete-nax&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
 
-### 🌟 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PeterMuroki/Pete-nax/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
-</p>
-
----
 
 ### 📫 Let's Connect!
 - 💌 Email: [peterhingam@gmail.com](mailto:peterhingam@gmail.com)
-- 📱 Phone: +254794880654
 - 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/peter-muroki-817725340/?trk=opento_sprofile_topcard) 
 
 ---
