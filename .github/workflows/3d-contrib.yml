@@ -1,0 +1,37 @@
+name: GitHub Profile 3D Contribution Graph
+
+on:
+  schedule:
+    # Runs every day at 18:00 UTC (this can be changed later)
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # The system to run the task
+    name: Generate 3D Contribution Graph
+    steps:
+      # Checkout the repository to work with the files
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Use the action that generates the 3D graph
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token to allow pushing changes
+          USERNAME: ${{ github.repository_owner }} # Your GitHub username
+
+      # Set up Git to commit and push the generated files back to your repository
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions" # Set user for commits
+          git config --global user.email "github-actions@github.com" # Set email for commits
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      # Commit the generated 3D graph files and push them back to the repository
+      - name: Commit & Push
+        run: |
+          git add -A . # Stage all changes
+          git diff --cached --quiet || git commit -m "Generated 3D Contribution Graph" # Only commit if there are changes
+          git push origin main # Push changes to the repository
