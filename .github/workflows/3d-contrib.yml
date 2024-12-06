@@ -19,17 +19,17 @@ jobs:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token to allow pushing changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This can stay as GITHUB_TOKEN
           USERNAME: ${{ github.repository_owner }} # Your GitHub username
 
-      # Set up Git to commit and push the generated files back to your repository
+      # Set up Git
       - name: Set up Git
         run: |
           git config --global user.name "github-actions" # Set user for commits
           git config --global user.email "github-actions@github.com" # Set email for commits
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git # Reference the new token
 
-      # Commit the generated 3D graph files and push them back to the repository
+      # Commit & Push
       - name: Commit & Push
         run: |
           git add -A . # Stage all changes
