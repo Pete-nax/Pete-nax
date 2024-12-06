@@ -26,16 +26,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterMuroki&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PeterMuroki&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMuroki&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pete-nax&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pete-nax&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete-nax&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ### 🌟 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeterMuroki/PeterMuroki/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+  <img src="https://raw.githubusercontent.com/PeterMuroki/Pete-nax/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </p>
 
 ---
