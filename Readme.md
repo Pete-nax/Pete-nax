@@ -7,7 +7,6 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning advanced web and mobile computing topics.
 - 💼 Passionate about building efficient, scalable, and creative software solutions.
 - 🎯 Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **Python**, **SQL**.
 
@@ -41,4 +40,5 @@
 <p align="center">
   🚀 Let's build something amazing together! 🚀
 </p>
+
 
