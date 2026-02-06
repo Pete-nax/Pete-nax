@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Peter Hinga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Software Developer+%7C+%7C+Learner;Proficient+in+Java%2C+JavaScript%2C+HTML%2C+CSS%2C+and+Python" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=+Software+Developer+%7C+Learner;Proficient+in+Java%2C+JavaScript%2C+HTML%2C+CSS%2C+and+Python" alt="Typing SVG">
 </p>
 
 ---
@@ -35,6 +35,7 @@
    Let's build something amazing together :)
   
 </p>
+
 
 
 
