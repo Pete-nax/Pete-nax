@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Peter Muroki</h1>
+<h1 align="center">Hi there 👋, I'm Peter Hinga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Developer+%7C+Coder+%7C+Learner;Proficient+in+Java%2C+JavaScript%2C+HTML%2C+CSS%2C+and+Python" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Software Developer+%7C+%7C+Learner;Proficient+in+Java%2C+JavaScript%2C+HTML%2C+CSS%2C+and+Python" alt="Typing SVG">
 </p>
 
 ---
@@ -23,22 +23,18 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pete-nax&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete-nax&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 
 
 ### 📫 Let's Connect!
 - 💌 Email: [peterhingam@gmail.com](mailto:peterhingam@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/peter-muroki-817725340/?trk=opento_sprofile_topcard) 
+
 
 ---
 
 <p align="center">
-  🚀 Let's build something amazing together! 🚀
+   Let's build something amazing together :)
+  
 </p>
+
 
 
