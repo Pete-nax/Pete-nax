@@ -6,13 +6,13 @@
 
 ---
 
-### 🚀 About Me
-- 💼 Passionate about building efficient, scalable, and creative software solutions.
-- 🎯 Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **Python**, **SQL**.
+### About Me
+-   Passionate about building efficient, scalable, and creative software solutions.
+-   Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **Python**, **SQL**.
 
 ---
 
-### 🛠️ Tech Stack
+###   Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -25,8 +25,8 @@
 
 
 
-### 📫 Let's Connect!
-- 💌 Email: [peterhingam@gmail.com](mailto:peterhingam@gmail.com)
+###   Let's Connect!
+- ✉️ [Email] (mailto:peterhingam@gmail.com)
 
 
 ---
