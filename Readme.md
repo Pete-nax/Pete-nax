@@ -26,7 +26,7 @@
 
 
 ###   Let's Connect!
-- ✉️ [Email] (mailto:peterhingam@gmail.com)
+- ✉️[ ] (mailto:peterhingam@gmail.com)
 
 
 ---
