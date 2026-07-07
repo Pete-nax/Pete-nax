@@ -1,0 +1,28 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4fd1c5"/>
+      <stop offset="50%" stop-color="#63b3ed"/>
+      <stop offset="100%" stop-color="#9f7aea"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="50"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="50" fill="#0d1117"/>
+  <g clip-path="url(#clip)">
+    <g>
+      <g stroke="url(#lineGrad)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path transform="translate(0,0)"    d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(300,0)"  d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(600,0)"  d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(900,0)"  d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(1200,0)" d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(1500,0)" d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(1800,0)" d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+        <path transform="translate(2100,0)" d="M0,25 L60,25 L75,8 L90,42 L105,3 L120,47 L135,25 L300,25"/>
+      </g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-1200,0" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
